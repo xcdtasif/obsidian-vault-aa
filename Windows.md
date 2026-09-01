@@ -1,1 +1,1 @@
-Restore EFI And MSR Partitions
+Restoring EFI and MSR Partitions
